@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 📫 How to reach me: vikashksingh1308@gmail.com  
 😄 Pronouns: He/Him  
 ⚡ Fun fact: I love exploring how software and systems work behind the scenes!  
-📃 [My Resume/CV] (https://www.linkedin.com/in/ksinghvikash)
+📃 [My Resume/CV](https://www.linkedin.com/in/ksinghvikash)
